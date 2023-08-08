@@ -3,7 +3,7 @@ All stars are here...
 
 Intro:-
 1. This is a spring-boot-docker project where we configure Dockerfile and Spin Up the spring-boot-docker images in docker container
-2. We are using one getmapping endpoint "/message" and having port 9090.
+2. We are using one get mapping endpoint "/message" and having port 9090.
 
 TO RUN 🦖
 1. clone this repo and run mvn clean install
